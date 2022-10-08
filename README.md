@@ -3,27 +3,27 @@
 ![Git and GitHub logos](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2sccyLe_SmvKqYfrPWoJrBWKkBnNF1VkC0A&usqp=CAU)
 
 ### Table of content 
-- <a name='introduction'>Introduction</a>
-- <a name='whatisgithub'>What is GitHub</a>
-- <a name='whygithub'>Why GitHub?</a>
-- <a name='gitvsgithub'>Git vs. GitHub</a>
-- <a name='clone'>Clone (Show how to do cloning)</a>
-- <a name='pullrequest'>Pull request (Show how to do a pull request)</a>
-- <a name='commit'>Commit (Show how to do a commit)</a>
-- <a name='githubdesktopgithubcli'>GitHub Desktop vs. Github CLI</a>
-- <a name='conclusion'>Conclusion</a>
+- [Introduction](#introduction)
+- [What is GitHub?](#whatisgithub)
+- [Why GitHub](#whygithub)
+- [Git vs. GitHub](#gitvsgithub)
+- [Clone (Show how to do cloning)](#clone)
+- [Pull request (Show how to do a pull request)](#pullrequest)
+- [Commit (Show how to do a commit)](#commit)
+- [GitHub Desktop vs. Github CLI](#githubdesktopgithubcli)
+- [Conclusion](#conclusion)
 
-### [Introduction](#introduction)
+### <a name='introduction'>Introduction</a>
 Git is a widely used version control system, designed for collaboration.
 GitHub is weg-based hosting platform for git.
 
-### [What is GitHub?](#whatisgithub)
+### <a name='whatisgithub'>What is GitHub</a>
 According to W3Schools, GitHub is a code hosting platform for collaboration and version control. GitHub lets you (and others) work together on projects.
 
-### [Why GitHub](#whygithub)
+### <a name='whygithub'>Why GitHub?</a>
 There are other hosting platforms using git, but GitHub is peculiar with its user friendly interface; features like public repository, issues, pull request, milestones.
 
-### [Git vs. GitHub](#gitvsgithub)
+### <a name='gitvsgithub'>Git vs. GitHub</a>
 Git: Git is a distributed version control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. Its goals include speed, data integrity, and support for distributed, non-linear workflows. 
 
 GitHub: GitHub is a web-based Git repository hosting service, which offers all of the distributed revision control and source code management (SCM) functionality of Git as well as adding its own features. 
@@ -46,7 +46,7 @@ GitHub: GitHub is a web-based Git repository hosting service, which offers all o
 https://www.google.com/amp/s/www.geeksforgeeks.org/difference-between-git-and-github/amp/
 
 
-### [Clone (Show how to do cloning)](#clone)
+### <a name='clone'>Clone (Show how to do cloning)</a>
 The git clone command is used to create a copy of a specific repository or branch within a repository.
 
  ```shell
@@ -56,7 +56,7 @@ The git clone command is used to create a copy of a specific repository or branc
 https://github.com/git-guides/git-clone
 
 
-### [Pull request (Show how to do a pull request)](#pullrequest)
+### <a name='pullrequest'>Pull request (Show how to do a pull request)</a>
 Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub.
 
 Find a project you want to contribute to
@@ -73,7 +73,7 @@ https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/propos
 https://opensource.com/article/19/7/create-pull-request-github
 
 
-### [Commit (Show how to do a commit)](#commit)
+### <a name='commit'>Commit (Show how to do a commit)</a>
 The git commit command captures a snapshot of the project's currently staged changes. Committed snapshots can be thought of as “safe” versions of a project—Git will never change them unless you explicitly ask it to. Prior to the execution of git commit, The git add command is used to promote or 'stage' changes to the project that will be stored in a commit. These two commands git commit and git add are two of the most frequently used. 
 
 ```shell
@@ -83,7 +83,7 @@ git commit -m "commit message"
 https://www.atlassian.com/git/tutorials/saving-changes/git-commit
 
 
-### [GitHub Desktop vs. Github CLI](#githubdesktopgithubcli)
+### <a name='githubdesktopgithubcli'>GitHub Desktop vs. Github CLI</a>
 GitHub CLI is an open source tool for using GitHub from your computer's command line. When you're working from the command line, you can use the GitHub CLI to save time and avoid switching context.
 
 Gitub CLI is different from Git CLI. GitHub CLI is specific to GitHub, uses `gh`; while Git CLI can be used for other Git hosting platforms like Bitbucket, uses `git`.
@@ -103,5 +103,5 @@ https://docs.github.com/en/get-started/using-github/github-cli
 GitHub Desktop is an application that enables you to interact with GitHub using a GUI instead of the command line or a web browser. GitHub Desktop encourages you and your team to collaborate using best practices with Git and GitHub.
 https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop
 
-### [Conclusion](#conclusion)
+### <a name='conclusion'>Conclusion</a>
 Git is different from Github. Also Git CLI is different from GitHub CLI.
