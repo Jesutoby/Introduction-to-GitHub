@@ -1,21 +1,21 @@
 # Introduction to GitHub
 
 ### Table of content 
-- <a name='introduction'>Introduction</a>
-- <a name='whatisgithub'>What is GitHub</a>
+- [Introduction](#introduction) 
+- [What is GitHub?](#whatisgithub) 
 - Why GitHub
 - Git vs. GitHub
 - Clone (Show how to do cloning)
 - Pull request (Show how to do a pull request)
 - Commit (Show how to do a commit)
-- <a name='githubdesktopgithubcli'>GitHub Desktop vs. Github CLI</a>
+- [GitHub Desktop vs. Github CLI](#githubdesktopgithubcli) 
 - Conclusion
 
-### [Introduction](#introduction)
+### <a name='introduction'>Introduction</a>
 Git is a widely used version control system, designed for collaboration.
 GitHub is weg-based hosting platform for git.
 
-### [What is GitHub?](#whatisgithub)
+### <a name='whatisgithub'>What is GitHub</a>
 According to W3Schools, GitHub is a code hosting platform for collaboration and version control. GitHub lets you (and others) work together on projects.
 
 ### Why GitHub?
@@ -75,7 +75,7 @@ https://www.atlassian.com/git/tutorials/saving-changes/git-commit
 git commit -m "commit message"
 
 
-### [GitHub Desktop vs. Github CLI](#githubdesktopgithubcli)
+### <a name='githubdesktopgithubcli'>GitHub Desktop vs. Github CLI</a>
 
 GitHub CLI is an open source tool for using GitHub from your computer's command line. When you're working from the command line, you can use the GitHub CLI to save time and avoid switching context.
 
