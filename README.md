@@ -98,3 +98,4 @@ https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/ove
 ### Conclusion
 Git is different from Github. Also Git CLI is differennt from GitHub CLI.
 
+https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
